@@ -16,6 +16,7 @@
 		4D2576071D2FEDB10075470D /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2576061D2FEDB10075470D /* Player.swift */; };
 		4D2576091D2FF0A80075470D /* Enemy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2576081D2FF0A80075470D /* Enemy.swift */; };
 		4D25760B1D2FF4180075470D /* Kimara.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D25760A1D2FF4180075470D /* Kimara.swift */; };
+		4D25760D1D2FF67C0075470D /* WildWizard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D25760C1D2FF67C0075470D /* WildWizard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		4D2576061D2FEDB10075470D /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		4D2576081D2FF0A80075470D /* Enemy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Enemy.swift; sourceTree = "<group>"; };
 		4D25760A1D2FF4180075470D /* Kimara.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Kimara.swift; sourceTree = "<group>"; };
+		4D25760C1D2FF67C0075470D /* WildWizard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WildWizard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				4D2576061D2FEDB10075470D /* Player.swift */,
 				4D2576081D2FF0A80075470D /* Enemy.swift */,
 				4D25760A1D2FF4180075470D /* Kimara.swift */,
+				4D25760C1D2FF67C0075470D /* WildWizard.swift */,
 			);
 			path = rpgoop;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			files = (
 				4D2576071D2FEDB10075470D /* Player.swift in Sources */,
 				4D2576091D2FF0A80075470D /* Enemy.swift in Sources */,
+				4D25760D1D2FF67C0075470D /* WildWizard.swift in Sources */,
 				4D25760B1D2FF4180075470D /* Kimara.swift in Sources */,
 				4D2576051D2FEACD0075470D /* Character.swift in Sources */,
 				4D2575F51D2FE9040075470D /* ViewController.swift in Sources */,
